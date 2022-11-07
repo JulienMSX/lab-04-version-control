@@ -1,0 +1,17 @@
+well well well, so this is how you change things.
+
+feels a little strange 
+
+could i just write
+
+cd ~
+rm -rf .
+
+and if i put the #!/bin/bas in front kill any macbook that opens this file 
+on github? 
+
+what a terrible fate 
+
+if only the world werent so cruel
+
+
